@@ -1,0 +1,49 @@
+#rodape img {
+  margin-right: 35px;
+  vertical-align: middle;
+  width: 94px;
+}
+p {
+  color: blue;
+  background-color: yellow;
+}
+h1 {
+  font-family: serif;
+  line-height: 3px; /* tamanho da altura de cada linha */
+  letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+  word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+  text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+  background-image: url(body-background.png);
+  background-color: red;
+  height: 300px;
+  width: 300px;
+}
+h2 {
+  font-family: sans-serif;
+  line-height: 3px; /* tamanho da altura de cada linha */
+  letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+  word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+  text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+}
+p {
+  font-family: monospace;
+  font-style: oblique;
+  text-align: left;
+  line-height: 3px; /* tamanho da altura de cada linha */
+  letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+  word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+  text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+  padding: 10px 20px 15px 5px; /* Dentro do elemento. Sentido horário. top, right, bottom e left*/
+  background-color: red;
+  height: 300px;
+  width: 300px;
+}
+p {
+  margin: 0 auto; /* O navegador da o espaçamento automático e igualitário*/
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  border-color: red;
+  border-style: solid;
+  border-width: 1px;
+}
